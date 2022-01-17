@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/Hello88153/sook",
+  "repository": "https://github.com/Hello88153/sook",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
